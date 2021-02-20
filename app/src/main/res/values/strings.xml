@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BeatTheBookie</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="No_User">Dont have a username? Register</string>
+    <string name="register">Register</string>
+    <string name="ConfirmPassword">Confirm Password</string>
+    <string name="CreateBet">Create a new bet</string>
+    <string name="GotoLeaderboard">See current bets</string>
+    <string name="ValidUntil">Valid Until</string>
+    <string name="CreateBet1">Create Bet!</string>
+    <string name="refresh">Refresh</string>
+    <string name="GoBack">Go Back</string>
+    <string-array name="SortOptions">
+        <item>Earliest</item>
+        <item>Lowest voted</item>
+    </string-array>
+</resources>
